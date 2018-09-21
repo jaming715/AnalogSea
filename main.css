@@ -17,6 +17,10 @@ a {
 	color: white;
 }
 
+a:hover {
+	color: #EBEBEB;
+}
+
 form {
 	box-sizing: border-box;
 	width: 400px;
@@ -61,6 +65,11 @@ button {
 	color: white;
 	border: none;
 	font-size: 23px;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: #0BAA5B;
 }
 
 
@@ -71,3 +80,4 @@ span {
 	font-size: 20px;
 	font-weight: bold;
 }
+
